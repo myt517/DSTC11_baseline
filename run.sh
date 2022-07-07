@@ -1,0 +1,1 @@
+python3 -m sitod.run_experiment --data_root_dir dstc11 --experiment_root_dir results --config configs/run-intent-clustering-baselines.jsonnet
